@@ -63,15 +63,7 @@ The dataset contains the following columns:
 - Positive tweets tend to receive higher engagement  
 - Most sentiments are moderate or weak, not extreme  
 - Common words reveal user opinion trends  
-
----
-
-## Power BI Dashboard
-The dashboard includes:
-- Sentiment distribution  
-- Engagement analysis  
-- Sentiment trends over time  
-- Interactive filters (slicers)  
+ 
 
 ---
 
