@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis Project
 
 ## Overview
-This project focuses on analyzing public opinion on social media using sentiment analysis techniques. A dataset of 10,000 tweets was used to classify user opinions into **positive**, **negative**, and **neutral** sentiments. The project also explores how sentiment relates to user engagement such as likes and retweets.
+This project focuses on analyzing public opinion on social media using sentiment analysis techniques. A dataset of 10,000 tweets was used to classify user opinions into positive, negative, and neutral sentiments. The project also explores how sentiment relates to user engagement such as likes and retweets.
 
 ---
 
@@ -10,7 +10,6 @@ This project focuses on analyzing public opinion on social media using sentiment
 - Classify tweets into sentiment categories  
 - Understand engagement patterns (likes & retweets)  
 - Identify common words in positive and negative tweets  
-- Visualize insights using Power BI  
 
 ---
 
@@ -30,8 +29,7 @@ The dataset contains the following columns:
 - Pandas  
 - NLTK (VADER Sentiment Analyzer)  
 - TextBlob  
-- Matplotlib  
-- Power BI  
+- Matplotlib    
 
 ---
 
@@ -41,8 +39,8 @@ The dataset contains the following columns:
    - Cleaned text (links, symbols, special characters)  
 
 2. **Sentiment Analysis**
-   - Used **VADER** to classify tweets  
-   - Compared results with **TextBlob**  
+   - Used VADER to classify tweets  
+   - Compared results with TextBlob  
 
 3. **Feature Engineering**
    - Created `sentiment_strength`  
@@ -51,10 +49,7 @@ The dataset contains the following columns:
 4. **Exploratory Analysis**
    - Sentiment distribution  
    - Engagement by sentiment  
-   - Frequent words in tweets  
-
-5. **Visualization**
-   - Built dashboard in **Power BI**  
+   - Frequent words in tweets    
 
 ---
 
